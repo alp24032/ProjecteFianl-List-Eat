@@ -1,0 +1,21 @@
+nav{
+    background-color: rgba(247, 215, 5, 1);
+}
+
+.bg-image{
+    background-image: url('/ProjecteFinal/img/background0.jpg');
+    height: 85vh;
+}
+
+.container{
+    height: 80vh;
+}
+
+#profDiv{
+    background-color: rgba(252, 252, 96, 0.9); 
+    padding: 1rem;
+}
+
+#shuffle{
+    margin-left: -50px;
+}

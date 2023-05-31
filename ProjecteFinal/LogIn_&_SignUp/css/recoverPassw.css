@@ -1,0 +1,42 @@
+#m{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+form i {
+    margin-left: -35px;
+    margin-top: 13px;
+    cursor: pointer;
+}
+#shuffle{
+    margin-left: -50px;
+}
+form{
+    width: 400px;
+}
+
+#okMessage{
+    width: 100%; 
+    height: 100%; 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-content: center;
+}
+ #container{
+    display: flex; 
+    color: black; 
+    align-content: center; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+    background-color: green; 
+    width: 50vw; 
+    height: 30vh; 
+    font-family: monospace; 
+    text-align: center;
+ }
+ 
+nav{
+    background-color: rgba(247, 215, 5, 1);
+}

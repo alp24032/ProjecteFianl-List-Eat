@@ -1,0 +1,46 @@
+#m{
+    display: flex;
+    justify-content: center;
+    /* align-content: center; */
+    align-items: center;
+    margin-top: 100px;
+}
+
+#message{
+    width: 100%; 
+    height: 100%; 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-content: center;
+}
+#okContainer{
+    display: flex; 
+    color: black; 
+    align-content: center; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+    background-color: green; 
+    width: 50vw; 
+    height: 50vh; 
+    font-family: monospace; 
+    text-align: center; 
+    font-size: large;
+}
+#errorContainer{
+    display: flex; 
+    color: black; 
+    align-content: center; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+    background-color: rgb(255, 57, 57); 
+    width: 50vw; 
+    height: 50vh; 
+    font-family: monospace; 
+    text-align: center; 
+    font-size: large;
+}
+
+nav{
+    background-color: rgba(247, 215, 5, 1);
+}
